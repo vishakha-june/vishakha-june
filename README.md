@@ -1,7 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Vishakha%20Dubey&fontSize=50&fontColor=fff&animation=fadeIn)
 
-<div align="center">
-
 ### Electronics and Communication Engineering Graduate | Pune, Maharashtra, India
 
 Detail-oriented Electronics and Communication Engineering graduate with a strong foundation in system architecture, software domain engineering, and full-stack development. Highly proficient in Java, Data Structures & Algorithms (DSA), and the MERN stack, with experience in building scalable web applications and designing REST APIs. Combines strong database engineering skills with data-driven analytical approaches to deliver optimized, modular software solutions.
@@ -46,6 +44,9 @@ Detail-oriented Electronics and Communication Engineering graduate with a strong
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=vishakha-june&color=blue&style=flat-square)](https://github.com/vishakha-june)
+<div align="center">
 
 🌐 Connect with Me
 
