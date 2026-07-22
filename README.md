@@ -54,6 +54,8 @@ Detail-oriented Electronics and Communication Engineering graduate with a strong
 
 💼 LinkedIn: https://linkedin.com/in/vishakha-dubey-97b9342b6
 
+https://www.skills.google/public_profiles/a14c24ad-c214-4895-94ba-5b963cdb0eb5
+
 
 🧠 Fun Fact
 
