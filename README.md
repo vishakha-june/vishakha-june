@@ -48,6 +48,12 @@ Detail-oriented Electronics and Communication Engineering graduate with a strong
 [![Profile Views](https://komarev.com/ghpvc/?username=vishakha-june&color=blue&style=flat-square)](https://github.com/vishakha-june)
 <div align="center">
 
+## 🏆 Open Source Achievements
+
+[![Meshery First Design Badge](https://badges.layer5.io/assets/badges/first-design/first-design.png)](https://cloud.layer5.io/user/e5898484-a1ea-45ce-8441-ee0f02e1cc66?tab=badges&badge=first-design)
+
+*Awarded for creating my first design in Meshery Playground.*
+
 🌐 Connect with Me
 
 📧 vishakhadubey004@gmail.com
